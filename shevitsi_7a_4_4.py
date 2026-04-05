@@ -1,5 +1,6 @@
 import turtle as p
 
+
 def triangle(side, color):
     p.color(color)
     p.begin_fill()
